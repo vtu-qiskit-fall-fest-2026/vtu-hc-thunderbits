@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Thunderbits** · Team ID `VTU-QFF-HC-0027` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Thunderbits)
+[⬆ Back to Top](#thunderbits)
 
 </div>
